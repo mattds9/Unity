@@ -2180,6 +2180,11 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 492725964175837645, guid: f93b5c6998d4f7e4baa8af874de5a74a,
+        type: 3}
+      propertyPath: m_audioClip
+      value: 
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f93b5c6998d4f7e4baa8af874de5a74a, type: 3}
 --- !u!1001 &8574635232214546593

@@ -265,8 +265,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d69e8a5a4f44d7941ada085debf1ed4d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  rcsThrust: 90
+  rcsThrust: 140
   rcsRotate: 250
+  mainEngine: {fileID: 8300000, guid: 32df4fce0ee2ed842a26b560b316af6b, type: 3}
+  success: {fileID: 8300000, guid: 87e21f1853faca842b008b3c8c63073e, type: 3}
+  death: {fileID: 8300000, guid: 364faa3e44a6c164baf3022c438b87d1, type: 3}
 --- !u!1 &8389089519272128867
 GameObject:
   m_ObjectHideFlags: 0
