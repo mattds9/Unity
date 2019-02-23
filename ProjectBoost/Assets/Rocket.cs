@@ -79,7 +79,7 @@ public class Rocket : MonoBehaviour
                 UnityEngine.SceneManagement.SceneManager.LoadScene(1);
                 break;
             default:
-                UnityEngine.SceneManagement.SceneManager.LoadScene(0);
+                UnityEngine.SceneManagement.SceneManager.LoadScene(UnityEngine.SceneManagement.SceneManager.GetActiveScene().name);
                 //kill player
                 break;
         }
